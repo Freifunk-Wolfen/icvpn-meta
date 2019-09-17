@@ -1,0 +1,5 @@
+tech-c:
+  - niccokunzmann+ff-wolfen@gmail.com
+networks:
+  ipv4:
+    - 10.13.120.0/21
